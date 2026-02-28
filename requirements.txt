@@ -1,0 +1,12 @@
+langchain 
+wikipedia 
+langchain-community 
+langchain-openai
+langchain-anthropic
+python-dotenv
+pydantic
+duckduckgo-search
+PyGithub
+# Add Azure AI and Core dependencies
+azure-ai-inference
+azure-core
